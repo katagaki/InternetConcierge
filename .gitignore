@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Chromium data
+.chromium
+common/tools/chromium_extensions
+
+# Output files
+output/
+
+# macOS files
+.DS_Store
+
+# .env file
+.env
