@@ -14,7 +14,7 @@ pip install uv
 
 ```bash
 uv venv
-uv pip sync
+uv sync
 ```
 
 ## 起動
